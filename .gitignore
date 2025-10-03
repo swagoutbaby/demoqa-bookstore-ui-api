@@ -76,3 +76,5 @@ nb-configuration.xml
 ## Miscellaneous
 ##############################
 *.log
+
+src/test/java/helpers/DataProperties.java
